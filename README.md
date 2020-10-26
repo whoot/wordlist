@@ -12,7 +12,6 @@ ApacheTomcat.fuzz.txt
 CGI-XPlatform.fuzz.txt
 CGIs.txt
 Common-DB-Backups.txt
-CommonBackdoors-*.txt
 Common-PHP-Filenames.txt
 IIS.fuzz.txt
 JRun.fuzz.txt

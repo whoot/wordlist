@@ -55,7 +55,6 @@ _0/
 0117/
 0170/
 01.asp
-01_HPBanner.swf
 01.htm
 01.html
 01info/
@@ -1818,7 +1817,6 @@ _1p/
 1_stats_team.tpl.php
 1st-usa.com
 1subscribe.htm
-1.swf
 1_tag.tpl.php
 1tapes.htm
 1.tar
@@ -2564,7 +2562,6 @@ _1p/
 2.pdf
 2.shtml
 2_specialpages/
-2.swf
 2.tar
 2.tar.bz2
 2.tar.gz
@@ -2581,7 +2578,6 @@ _1p/
 300-250.php
 3002.html
 3003/
-300ER.swf
 300.htm
 300.html
 300.shtml
@@ -2941,7 +2937,6 @@ _1p/
 3DComplete.aspx
 3d_exhibits1.php
 3d_exhibits.php
-3d-hentai-games.swf
 3digitcode.php
 3dimages/
 3dmax/
@@ -2980,7 +2975,6 @@ _1p/
 3.shtml
 3-stars/
 3-stelle/
-3.swf
 3t/
 3test/
 3-travel-nec.htm
@@ -4782,7 +4776,6 @@ _404.php
 5.pdf
 5ppop.htm
 5-secure-payment/
-5.swf
 5.XML
 5years/
 6/
@@ -5285,7 +5278,6 @@ _404.php
 6mobile.php
 6.pdf
 6rPZw/
-6.swf
 7/
 7.0/
 700/
@@ -6184,7 +6176,6 @@ a2z/
 a2z.php
 a-3/
 A3/
-a330-200.swf
 a3.htm
 A3.html
 a3lan/
@@ -6825,8 +6816,6 @@ achievo/
 Achilles.html
 achives/
 AC.html
-acid/
-acid.php
 ac_ipix.htm
 acitext/
 ackey.asp
@@ -7001,7 +6990,6 @@ actualite-medias/
 actualites.html
 actualites.php
 actualites-sante/
-actualizaciones.swf
 actualizacion.php
 actualiza.php
 actualizar/
@@ -7463,7 +7451,6 @@ address.jsp
 Address-List/
 address.php
 address_process.asp
-address.swf
 AddRestaurant.aspx
 add_reunion.php
 add-review/
@@ -7498,7 +7485,6 @@ addstore.html
 addstory/
 add_strutture.asp
 addsuggestedbiz.asp
-add.swf
 addsys/
 addTag.php
 AddTemplate.asp
@@ -7647,7 +7633,6 @@ ad.html
 ~adiana/
 adic/
 adicionales.html
-adicionales.swf
 adidas/
 adidas.html
 aDIfr.asp
@@ -7761,7 +7746,6 @@ admin_admin.php
 admin_ads.asp
 admin_advert.asp
 admin-ajax.php
-admin-ajax.php‎
 admin_album.asp
 admin_alldel.asp
 adminandy/
@@ -8017,7 +8001,6 @@ administrator.jsp
 administrator/logs/
 administrator-panel/
 administrator.php4
-administrator.pl
 administrator.py
 administrator.rb
 Administrators/
@@ -8482,7 +8465,6 @@ adsubia/
 adsubiapego/
 adsurl.asp
 ads_user_request.php
-ad.swf
 ads.xml
 adSys/
 ADT/
@@ -9209,7 +9191,6 @@ airports.htm
 airports.html
 Airports.jsp
 air-quality/
-AirRouteMap2.swf
 airserv/
 airsoft/
 airticket/
@@ -9226,7 +9207,6 @@ ajax/
 ajax2.php
 ajaxaction/
 ajax_action.php
-ajax-ad.pl
 Ajax.ashx
 ajax.asp
 ajax.aspx
@@ -9294,7 +9274,6 @@ ajax_photos.php
 _ajax.php
 Ajax.php
 ajax_php/
-Ajax_PHP_Command_Shell.php
 ajaxpl.asp
 ajax-poller/
 ajax-popup/
@@ -9369,7 +9348,6 @@ ajs/
 ajuda.html
 AJWRB/
 AK/
-AK-74.php
 akamaitest/
 akbas/
 akc/
@@ -9520,14 +9498,11 @@ albufereta/
 albuixech/
 album1/
 album2/
-album%203.swf
-album%204.swf
 albumall.php
 album_allpics.php
 album.asp
 Album.aspx
 album_covers/
-albumhome.swf
 album_hotornot.php
 album.htm
 album.html
@@ -9693,7 +9668,6 @@ alex_poll2/
 aleyna-korcak/
 ~alf/
 alfa/
-alfa3.php
 alfafar/
 alfajarin/
 alfalfa/
@@ -10173,7 +10147,6 @@ AMA/
 ~amabel/
 ~amabelle/
 Amadeus2/
-amadmin.pl
 amador/
 amad.php
 ~amalea/
@@ -10206,7 +10179,6 @@ amazing/
 ambassador/
 ambassadors/
 ~amber/
-amber%20show.swf
 amberalert/
 ~amberly/
 ambient/
@@ -10335,7 +10307,6 @@ AN/
 ~anabel/
 ~anabella/
 ~anabelle/
-anacondaclip.pl
 anadir.php
 anagramme/
 anakkana.php
@@ -10407,7 +10378,6 @@ andalucia/
 andaluciaarenas/
 ~andee/
 ~andeee/
-andela.php
 ~anderea/
 ~anders/
 anders/
@@ -10501,7 +10471,6 @@ angelina/
 ~angelita/
 ~angelle/
 ~angelo/
-angel.php
 AngelPM/
 angels.htm
 angerine/
@@ -10543,8 +10512,6 @@ animation-vin.html
 anime-movies/
 anime.php
 animes/
-anim.swf
-Ani-Shell.php
 ~anissa/
 ~anita/
 ~anitra/
@@ -10763,8 +10730,6 @@ antibot/
 antibot_image/
 AntibotImage.ashx
 antic/
-antichat.php
-Antichat_Shell.php
 anticrawl/
 Antidote.php
 antiga/
@@ -10814,7 +10779,6 @@ anuncios.php
 anunt/
 anv/
 anv4/
-användare/
 anvils/
 Anvndare/
 anwalt/
@@ -11347,7 +11311,6 @@ architecture.php
 architektenforum/
 Architext/
 architext_query.cgi
-architext_query.pl
 _archiv/
 archiv/
 archiv~1/
@@ -11650,7 +11613,6 @@ arrythmia.jsf
 ARS/
 ar-sa/
 arsip/
-ar.swf
 ~art/
 Art/
 art2/
@@ -12117,12 +12079,6 @@ AspUpload/
 aspweb_editor/
 aspwp/
 aspxgrid/
-aspxSH.asp
-aspxshell.aspx
-aspxspy.aspx
-ASpy.asp
-aspydrv.asp
-aspydrv.php
 asr/
 assassin/
 as-seen-on-tv/
@@ -12409,7 +12365,6 @@ auctionbill/
 auctionblox.php
 auction.cgi
 auctiondata/
-auctiondeluxe/auction.pl
 auction-go.php
 auction.html
 auction-images/
@@ -12882,7 +12837,6 @@ awardsEN.php
 awards.htm
 awards.html
 awards.shtml
-awards.swf
 away.htm
 away.html
 away.php
@@ -12915,7 +12869,6 @@ AWFXXXCep.aspx
 aw-images/
 awimg/
 awla5b/
-awl/auctionweaver.pl
 awmData-mainmenu/
 awmdata-menu/
 _awm_file/
@@ -12930,7 +12883,6 @@ _awstats/
 awstats/
 awstats1/
 awstats6_data/
-awstats/awstats.pl
 awstatsclasses/
 awstats.conf
 awstatscss/
@@ -12991,7 +12943,6 @@ ayudas_trabajo/
 ayudaweb/
 ayuntamiento/
 ayurveda/
-Ayyildiz_Tim.php
 AZ/
 az2za/
 azalea-course/
@@ -13064,7 +13015,6 @@ b2.html
 b2-include/
 b2-tools/
 B3/
-b37.php
 b3.htm
 b3.html
 b3r/
@@ -13116,9 +13066,6 @@ Backbase/
 backbay/
 back_button/
 backdb/
-backdoorbot/
-backdoor.htm
-backdoor.php
 back-end/
 back_end/
 backEnd/
@@ -13449,7 +13396,6 @@ bane/
 _baner/
 baner.php
 baners.php
-baner.swf
 banesto/
 banex/
 bang/
@@ -13497,12 +13443,9 @@ Banner/
 banner01/
 banner05/
 banner1.asp
-banner1.swf
 banner2.asp
 banner2.html
 banner2.php
-banner2.swf
-banner3.swf
 banner4/
 banner730/
 BannerAdmin/
@@ -13596,7 +13539,6 @@ banners-new/
 banner_ssa/
 banners_signup.php
 banners_stat.php
-banners.swf
 banner_stats/
 bannerstats.php
 banners_test.asp
@@ -13605,7 +13547,6 @@ bannerstest.html
 banner-storage/
 banners.txt
 bannersURL.asp
-banner.swf
 banners.xml
 bannersystem/
 banner_test/
@@ -13629,7 +13570,6 @@ banquet/
 banrs/
 bans.php
 ban_stat.php
-ban.swf
 bansystem/
 banx/
 banyan/
@@ -13778,7 +13718,6 @@ basco/
 _base/
 ~base/
 BASE/
-base2.swf
 base64.php
 Baseball/
 baseball.htm
@@ -13803,7 +13742,6 @@ Bases/
 bases2/
 basesearch/
 Base.Skins
-base.swf
 base.txt
 basexml.php
 basf.html
@@ -14041,7 +13979,6 @@ bc.aspx
 bcastLabels.cfm
 bcastMain.cfm
 bcastProc.cfm
-bcastr3.swf
 bcastr.xml
 bcatalogue/
 BCBS/
@@ -14088,7 +14025,6 @@ bd-new/
 BdoDir.php
 Bdo.php
 bdotg/
-bdotw44shell.php
 bdp/
 bd.php
 bdr/
@@ -14683,7 +14619,6 @@ betriebe/
 betriebsrat/
 bets/
 ~betsey/
-betsie/parserl.pl
 ~betsy/
 ~betta/
 ~bette/
@@ -15015,7 +14950,6 @@ bios.cfm
 biosline/
 bios.php
 bios_principals.cfm
-bio.swf
 biotech/
 bio_vcard.aspx
 BioVCard.aspx
@@ -15464,7 +15398,6 @@ blonde/
 ~blondie/
 blondie/
 ~blondy/
-bloodsecv4.php
 bloom/
 blooms/
 bloque.php
@@ -15598,7 +15531,6 @@ board_photos/
 board.php.bak
 board-post.cgi
 board-profile.cgi
-board-profile.pl
 Boards/
 boardsearch.cfm
 boardSelector/
@@ -16021,7 +15953,6 @@ bookstore_images/
 bookstores/
 booksts/
 BookSucceeded.aspx
-book.swf
 booktui/
 bookvidsub/
 bookview.aspx
@@ -16172,7 +16103,6 @@ box_categories.html
 boxee/
 box-elder/
 Boxes/
-boxesindex.swf
 BoxesPage.php
 box.htm
 box.html
@@ -16277,7 +16207,6 @@ brand_images/
 Branding/
 branding.aspx
 branding.html
-branding.swf
 ~brandise/
 brandneu/
 brandnew/
@@ -16593,7 +16522,6 @@ BrowserHawk/
 browser.html
 browserinfo.asp
 browserinfo.php
-browser.jsp
 browserreqs.cfm
 browserstop.htm
 browser-update/
@@ -17052,15 +16980,6 @@ butthead/
 buttmachineboys/
 buttmachines/
 Button/
-button11.swf
-button12.swf
-button1.swf
-button2.swf
-button3.swf
-button4.swf
-button5.swf
-button6.swf
-button7.swf
 button.css
 button.html
 button-min.js
@@ -17069,7 +16988,6 @@ _buttons/
 Buttons/
 buttons.htm
 buttons.html
-buttons.swf
 butts/
 buxton/
 Buy/
@@ -17237,7 +17155,6 @@ c-3/
 C3/
 c_30/
 c360_settings.php
-c37.php
 c3.htm
 C4/
 C4cChat/
@@ -17250,7 +17167,6 @@ c55.php
 c5.htm
 c6/
 c64/
-c66.php
 c6.htm
 c-7/
 c-8/
@@ -17258,16 +17174,6 @@ c_8/
 c8/
 c-9/
 c_9/
-c99_locus7s.php
-c99_madnet.php
-c99madshell.php
-c99_PSych0.php
-c99-shadows-mod.php
-c99ud.php
-c99-Ultimate.php
-c99unlimited.php
-c99v2.php
-c99_w4cking.php
 c9revisions/
 CA/
 caa/
@@ -17562,7 +17468,6 @@ calculator.html
 calculator.php
 _calculators/
 Calculators/
-calculator.swf
 calcule/
 caldasmontbui/
 CalDate/
@@ -17631,7 +17536,6 @@ calendar_old/
 calendar.pdf
 calendar.php
 calendar.php3
-calendar.pl
 calendar.png
 calendar_pop.html
 calendarpopup/
@@ -17652,7 +17556,6 @@ calendar_week.php
 calendar_year.asp
 calende/
 Calender/
-calender_admin.pl
 calender.js
 calender.php
 calendfdgdgdfar.php
@@ -18337,7 +18240,6 @@ Carolin-Eibich/
 ~carolynn/
 ~caron/
 carousel_files/
-carousel.swf
 carousel.xml
 carp4/
 carParkDetails.php
@@ -18475,7 +18377,6 @@ cart_id/
 cart_images/
 cartimg/
 cartimgs/
-cartina.swf
 cartine/
 cartinfo.asp
 cartItem.aspx
@@ -18500,7 +18401,6 @@ CartPage.aspx
 Cart.php
 cart.php.bak
 cart.phtml
-cart.pl
 cart_popup.php
 cartpreview/
 cart_print.asp
@@ -18756,7 +18656,6 @@ catalogue.nsf
 catalogue.pdf
 catalogue.php
 CatalogueSearch.ice
-Catalogue.swf
 catalogus.html
 Catalog_View.aspx
 Catalog.wci
@@ -19001,7 +18900,6 @@ cbbs.cgi
 CBC/
 cbcuw/
 cbe/
-cbfphpsh.php
 cbg/
 cbi/
 cbi-bin/
@@ -19036,7 +18934,6 @@ ccavenue/
 cc-ban.txt
 cc-ban.txt.bak
 ccbill-local.cgi
-ccbill-local.pl
 ccbyfax_form.php
 CCC/
 ccc-2/
@@ -19493,7 +19390,6 @@ cgi-bin/classified.cgi
 cgi-bincz/
 cgi-bin/download.cgi
 cgi-bin/finger/
-cgi-bin/finger.pl
 cgi-bin/flexform/
 cgi-bin/flexform.cgi
 cgi-bin/formmail/
@@ -19531,7 +19427,6 @@ CGI-Executables/
 cgif4k3r/
 cgi-form/
 cgiforms/
-cgiforum.pl
 cgi-fy/
 cgi-global/
 cgi-htdig/
@@ -19552,7 +19447,6 @@ cgi_old/
 cgi-opt/
 cgi.pan
 CGI.php
-cgi.pl
 cgiproxy/
 cgi-pvt/
 cgi-registry/
@@ -19560,15 +19454,12 @@ cgi_root/
 cgiscripts/
 cgi-search/
 cgi-shell/
-Cgishell.pl
 cgi-shop/
 CgiSis/
 cgisubscribe/
 cgi-sys-data/
 cgi-t/
 cgit/
-cgitelnet.php
-cgitelnet.pl
 _cgitemp/
 cgitest/
 cgitest.exe
@@ -19742,7 +19633,6 @@ ChangeUsername.aspx
 change_user.php
 changeUser.php
 changeWebsite.php
-change-your-password.pl
 changKey.php
 chango.aspx
 ~channa/
@@ -19854,7 +19744,6 @@ Charts.aspx
 charts.cfm
 charts.html
 charts-min.js
-chart.swf
 ~charyl/
 ~chas/
 ~chase/
@@ -19917,7 +19806,6 @@ chatroulette/
 chatserver/
 chat.shtml
 ChatSource/
-chat.swf
 chatt/
 chattahoochee/
 chatterbox/
@@ -20483,7 +20371,6 @@ chuan_falun/
 chubb.xml
 ~chucho/
 ~chuck/
-chuck.swf
 chunks/
 Chunyi/
 churches.htm
@@ -20520,7 +20407,7 @@ CID_1000.html
 CID_23_ALL.html
 cidadania/
 cidr/
-cidr.txtа
+cidr.txt
 cie/
 ~ciel/
 ciencia/
@@ -20529,7 +20416,6 @@ cifnet.xml
 cifrado/
 cigars/
 cih/
-cihshell_fix.php
 ci_id/
 cikis.php
 cikk/
@@ -20609,7 +20495,6 @@ cit-e-access/
 c_item/
 cities.php
 cities_reg.jsp
-citimovie.swf
 citizen/
 citizens/
 citizenship/
@@ -20955,7 +20840,6 @@ CleanseRx.html
 cleanup.lib.php
 cleanup.log
 Cleanup.php
-clear%20show.swf
 Clearance/
 clearance.asp
 Clearance.aspx
@@ -20977,8 +20861,6 @@ clearhist/
 clearinghouse/
 clearinternetfax/
 clear.php
-Clear_Skin_1.swf
-Clear_Skin_3.swf
 cleartrip.html
 cleartrust/
 clearwater/
@@ -21043,7 +20925,6 @@ click_counter/
 clickcounter.php
 click-count.php
 clickcount.php
-clickcount.pl
 click_coupon.php
 click.epl
 clicker/
@@ -21070,7 +20951,6 @@ click_outbound.php
 click_out.php
 clickout.php
 click.phdo
-clickresponder.pl
 clicks.ashx
 clicks.asp
 clicks.aspx
@@ -21237,7 +21117,6 @@ cliparticle.php
 clipart.php
 clipart_search.php
 clipboard.html
-clipboard.swf
 cli.php
 clipper/
 clip.php
@@ -21260,17 +21139,10 @@ cload.html
 Cloaked/
 cloak.php
 Clock/
-clock_de.swf
-clock_es.swf
-clock_fr.swf
 clock.html
-clock_it.swf
-clock_nl.swf
 clock.php
 clock_status.php
-clock.swf
 clock-tower.html
-clock_us.swf
 cloclo/
 ~cloe/
 clogin.asp
@@ -21300,7 +21172,6 @@ Closeouts/
 close.png
 closer_view.asp
 close_session.htm
-close.swf
 closeups/
 clothes/
 Clothing/
@@ -21393,16 +21264,9 @@ cm.asp
 cmauw/
 cmb/
 cmcic_response.php
-cmd1.exe
 cmdasp.asp
-cmd.aspx
 cmd_demo/
-cmd.exe
-cmdexec.aspx
-cmd.jsp
-cmd.pl
 cmds/
-cmd_win32.jsp
 Cme/
 c-mes/
 cmf/
@@ -21554,7 +21418,6 @@ cna/
 cnam/
 CNAME.php
 cnas/
-cn-auctions.swf
 cnbc/
 cncat_admin/
 cncat_config/
@@ -21875,7 +21738,6 @@ colusa/
 _com/
 Com/
 com5.java
-com5.pl
 com_acajoom/
 com_act.cfm
 com_acymailing/
@@ -22128,7 +21990,6 @@ common.js
 common-lib/
 common_lib/
 common.lib.php
-common/listrec.pl
 common_old/
 common_pages/
 commonpgm/
@@ -22496,7 +22357,6 @@ condiciones.php
 condiciones-uso/
 condiciones-uso.php
 condiciones_uso.php
-condicionesuso.swf
 condition.asp
 condition.php
 Conditions/
@@ -22658,7 +22518,6 @@ configitem.php
 config.js
 config.json
 config.json.cfm
-configkillerionkros.php
 config_locale.php
 config/locales/
 config/locales/en.yml
@@ -22836,7 +22695,6 @@ conn.cfg
 connCsUcy.php
 _connect/
 Connect/
-connect-back.php
 connect_db.php
 connecte.php
 connectes.php
@@ -23085,8 +22943,6 @@ contact_new.php
 contact_now/
 contact.nsf
 contact.nxg
-contacto2.swf
-contacto_actual.swf
 contacto.asp
 contacto.aspx
 contacto.htm
@@ -23097,7 +22953,6 @@ contact_old.asp
 contacto.php
 contact_org.php
 contactos.php
-contacto.swf
 contact-page/
 contact-page.html
 contactpage.php
@@ -23152,7 +23007,6 @@ contact-success.php
 contact_success.php
 contact-support.php
 contactswc.cfm
-contact.swf
 contacts.xml
 contactteam.shtml
 contact_thanks.asp
@@ -23331,7 +23185,6 @@ content_space.php
 contents_test.asp
 contentstest.php
 contents.txt
-content.swf
 contentsXML.asp
 contenttemplates/
 content.txt
@@ -23406,13 +23259,11 @@ contrat.pdf
 contrats/
 contratti/
 contrib/
-contrib/geo2nginx.pl
 contrib.php
 contrib/README/
 contribs/
 contrib/unicode2nginx/
 contrib/unicode2nginx/koi-utf/
-contrib/unicode2nginx/unicode-to-nginx.pl
 contrib/unicode2nginx/win-utf/
 Contribute/
 contribute.html
@@ -23594,7 +23445,6 @@ copa_america.php
 copenhagen/
 copermine/
 copernic/
-co.php
 Copia/
 copiah/
 copias/
@@ -23918,7 +23768,6 @@ Counters/
 counter.shtml
 counters.html
 counters.php
-counter.swf
 counter.txt
 count_file/
 count_file.txt
@@ -24068,7 +23917,6 @@ coverage.xml
 coveralls.yml
 coverart/
 coverfinder/
-coverflow.swf
 cover.htm
 cover.html
 CoverImagePopup/
@@ -24137,7 +23985,6 @@ cpem/
 cpeonline/
 cp_functions.php
 cpg1410/
-cpg_143_incl_xpl.php
 cpg14x/
 cph/
 cp_header.php
@@ -24528,9 +24375,7 @@ CryptUtil.php
 ~crystal/
 Crystal/
 crystal.htm
-Crystal.php
 CrystalReports/
-CrystalShell.php
 ~crystie/
 crysty/
 cs_/
@@ -24668,7 +24513,6 @@ css_v2/
 css-validator/
 cstartup.exe
 cstartup.zip
-cstat.pl
 cstats/
 cstats.php
 cstcard/
@@ -24690,7 +24534,6 @@ csv_importer/
 CSV_KNS/
 csv_update.php
 csvUpload/
-c.swf
 csx/
 _ct/
 CT/
@@ -24745,12 +24588,10 @@ _ctsi/
 cts-nursing/
 cts-teaching/
 ctt/
-ctt_sh.php
 ctuw/
 ctuw-4/
 ctx/
 CU/
-cu3er.swf
 cuadros/
 Cuba.html
 cubaimages/
@@ -25414,7 +25255,6 @@ CWP_Import/
 CWP_mover/
 cwscv/
 cwscv-2/
-CWShellDumper.php
 cwsogc/
 cwsonc/
 cwsuc/
@@ -25435,7 +25275,6 @@ cybergrants/
 cyber.html
 cyberia/
 cyberpaie/
-cybershell.php
 CyberStats/
 cybertext/
 cyberwave/
@@ -25674,7 +25513,6 @@ danke.php
 ~dannye/
 Danone/
 dans/
-dansguardian.pl
 dansk/
 ~dante/
 dante/
@@ -26350,7 +26188,6 @@ db.zip
 dc1/
 dc2/
 dc3/
-dC3_Security.php
 dc8/
 dcache/
 dcadmin.cgi
@@ -26379,7 +26216,6 @@ dcn/
 dco/
 dcontent/
 dc.php
-dc.pl
 dcps/
 dcr8/
 dcr.php
@@ -26407,7 +26243,6 @@ DDL/
 ddmenu/
 ddn/
 ddoha/
-ddos.php
 ddp/
 dd.php
 ddreport/
@@ -27179,7 +27014,6 @@ dependencies/
 Deploy/
 deployignore/
 deploy.rb
-deploy.swf
 deploy.txt
 Deportes/
 deportesl/
@@ -27549,8 +27383,6 @@ dewey/
 de-witt/
 dewitt/
 dewplayer/
-dewplayer.swf
-dewslider.swf
 ~dex/
 dex/
 ~dexter/
@@ -27930,10 +27762,6 @@ dir.html
 dir_images/
 diritto/
 ~dirk/
-dirk-mueller-1/
-dirk-mueller-2/
-dirk-mueller-3/
-Dirk-Müller/
 dir_links_edit.php
 dir_links.php
 dir_list/
@@ -28055,7 +27883,6 @@ disdls.php
 diseases/
 disegni/
 diseno-web.html
-diseoweb.swf
 dish_category/
 disHTML.asp
 DisImg/
@@ -28124,9 +27951,7 @@ display_resume/
 displayshownews.cfm
 display_star.jhtml
 display_stores.asp
-display.swf
 display_tbl.lib.php
-displayTC.pl
 display-tents/
 displayUGCSearch/
 display_vvcodes/
@@ -28176,7 +28001,6 @@ Diverses/
 Diversetest/
 diversions/
 diversity.aspx
-Dive_Shell.php
 divide/
 dividers.php
 divine/
@@ -28597,7 +28421,6 @@ dominikana/
 dominioHTML.html
 dominios.html
 dominios.php
-dominios.swf
 ~dominique/
 dominos/
 dominos.htm
@@ -28746,7 +28569,6 @@ dortmund.html
 ~dory/
 dos73ya/
 dosearch.php
-dose.pl
 ~dosi/
 do_sitemaps.php
 doski/
@@ -28792,7 +28614,6 @@ dot.php
 dotplugins/
 dot_post/
 dotscripts/
-dots.swf
 dotstore/
 ~dotti/
 ~dottie/
@@ -28977,7 +28798,6 @@ dqm_ie.js
 dqm_ns6.js
 dqm_ns.js
 dqm_script.js
-dq.php
 dqzd.html
 DR/
 draabe/
@@ -29206,7 +29026,6 @@ dtl/
 dtlimg.php
 dtm/
 dto/
-DTool_Pro.php
 dtos_back/
 dt.php
 dtree/
@@ -29279,7 +29098,6 @@ DummyPage.aspx
 dummy.txt
 dump/
 dump.bz2
-dumpenv.pl
 _dumper/
 Dumper/
 dumper2/
@@ -29440,7 +29258,6 @@ Dx/
 DX11/
 dxbl/
 dx_htm2pdf/
-Dx.php
 DXR.axd
 dxs/
 ~dyan/
@@ -30084,7 +29901,6 @@ editPaymentInfo.htm
 editphoto.php
 Edit.php
 edit.php3
-edit.pl
 editpodsgdsfst.php
 EditPost/
 edit_post.asp
@@ -30115,7 +29931,6 @@ _editqty.asp
 editquestion.asp
 editquestions.php
 edit_record.php
-edit-response.pl
 editReview/
 editreview.php
 editrole_actions.php
@@ -30272,7 +30087,6 @@ eforms2/
 ~efrem/
 ~efren/
 efriend/
-EFSO.asp
 eft/
 EG/
 ega/
@@ -30301,7 +30115,6 @@ egrpo/
 eguide/
 egunez.nsf
 egy_jutalomrol/
-egy.php
 Egypt/
 egypt.htm
 egypt.html
@@ -30377,7 +30190,6 @@ e-kart/
 ekb/
 EkDAVlog.txt
 ekeith/
-Ekin0x.php
 ekler/
 eko/
 eksport/
@@ -30581,7 +30393,6 @@ elluminate/
 ~ellyn/
 ~ellynn/
 elmah.axd
-elmaliseker.asp
 elmar_affiliate.php
 elmar_products.php
 elmar_request.php
@@ -31357,8 +31168,6 @@ eng.html
 Engine/
 engine.asp
 engine.aspx
-engine/classes/swfupload/swfupload_f9.swf
-engine/classes/swfupload/swfupload.swf
 Engineering/
 engineering.php
 engine.html
@@ -31626,7 +31435,6 @@ environment.rb
 environments/
 environment.x
 environnement/
-environ.pl
 envisage/
 envision/
 envivocms/
@@ -31822,7 +31630,6 @@ er-logs/
 ~erminie/
 ~erna/
 ~ernaline/
-erne.php
 ~ernest/
 ~ernesta/
 ~ernestine/
@@ -32628,7 +32435,6 @@ Events.php
 events_results2.php
 events_results.php
 events.shtml
-events.swf
 events_template.php
 events.vb
 ~everard/
@@ -32677,7 +32483,6 @@ EWGA/
 ewi/
 ewriterpro/
 ex071101.log
-ex0shell.php
 exa/
 exact/
 exacttarget/
@@ -32826,7 +32631,6 @@ exitSurvey.aspx
 exklusiv/
 exlibris/
 exlinks.html
-ex-logger.pl
 exm/
 exmo/
 exmonitor.aspx
@@ -32938,7 +32742,6 @@ exp.php
 Express/
 expresscheckout.php
 expressen/
-expressinstall.swf
 Expression.php
 expressions/
 express.php
@@ -33510,7 +33313,6 @@ fastsearch.php.save
 faststats/
 fasttrack/
 fastxml/
-FaTaLisTiCz_Fx.php
 fatarella/
 fatblasterplus.htm
 fatcow.php
@@ -33679,7 +33481,6 @@ fcadmin/
 fc.aspx
 fcategory/
 fcategory.php
-FCF_Line.swf
 fcg/
 fcgi-/
 fcgi-bin/
@@ -34171,7 +33972,6 @@ filelist.xml
 fileloc.php
 filelst.php
 filemail/
-filemail.pl
 FileMaker/
 FileManagement.ashx
 file_manager/
@@ -34214,7 +34014,6 @@ files.html
 filesimages/
 files_library/
 Files_LR/
-filesman.php
 files.md5
 filesme/
 files_message/
@@ -34235,7 +34034,6 @@ FILES_UPLOAD/
 Files_VS/
 Files_VSTH/
 filesystem/
-filesystembrowser.aspx
 filesystem.php
 filetempo.php
 filethumbnail.php
@@ -34456,7 +34254,6 @@ fine.php
 finestra/
 finestrat/
 finfo/
-finger.pl
 fingerprint/
 finish/
 Finish.aspx
@@ -34537,7 +34334,6 @@ fishingreport.cgi
 fishing-reports/
 fishki/
 fish.php
-fishsrv.pl
 fisica/
 fis_section/
 fisterra/
@@ -34617,9 +34413,6 @@ flarcvr/
 flas/
 _Flash/
 Flash/
-flash02.swf
-flash_1.swf
-flash1.swf
 flash3/
 flash5/
 FlashAds/
@@ -34637,7 +34430,6 @@ flash.cmd
 flashcom/
 flash_container.php
 flashData/
-flash_detection.swf
 flashed/
 Flashes/
 flash_file/
@@ -34678,7 +34470,6 @@ flashservice/
 flash_slider/
 FlashSource/
 flashstuff/
-flash.swf
 flashtemplate/
 Flashtest/
 flashtest1/
@@ -34829,7 +34620,6 @@ flower-shops/
 flowers.html
 flow.html
 _flowplayer/
-flowplayer.swf
 ~floyd/
 fl.php
 FLREZ/
@@ -34851,11 +34641,8 @@ flv/
 flvideo2/
 flv.php
 flv-player/
-flv_player.swf
-flvplayer.swf
 flvprovider.php
 flvserver/
-Flv.swf
 flvtext/
 flvtool/
 flw/
@@ -35078,7 +34865,6 @@ _footer.php
 Footer.php
 footerS.asp
 footer.shtml
-footer.swf
 footer.txt
 _footer_urls/
 footeruserscols.php
@@ -35304,7 +35090,6 @@ FormMailExample/
 formmail.htm
 formmail.html
 formmail.php
-formmail.pl
 formmailtest/
 formmaker/
 formmakerpro/
@@ -35381,7 +35166,6 @@ formstest/
 form_style.css
 FormSubmit.aspx
 form-success/
-form.swf
 FormTemplate.asp
 form_templates/
 formtemplates/
@@ -36312,7 +36096,6 @@ ftpmirror/
 Ftp-old/
 ftppass/
 FTP.php
-ftp.pl
 FTPROOT/
 FTPServer.aspx
 FTPServer.aspx.cs
@@ -36554,7 +36337,6 @@ furnitura/
 Furniture/
 furniture.htm
 furongtrade/
-Fürstenwalde/
 fuseads/
 fusebox/
 f___user/
@@ -36663,7 +36445,6 @@ G4.htm
 g4man/
 G5/
 G5.htm
-G5.php
 G6/
 G6.htm
 g7/
@@ -36867,7 +36648,6 @@ galleryplay/
 galleryplayer.aspx
 gallery_pro.asp
 gallerys.htm
-gallery.swf
 gallery-test/
 gallery_ucp.php
 galleryview.aspx
@@ -36928,7 +36708,6 @@ games.htm
 games.html
 games.php
 Gaming/
-Gamma_Web_Shell.php
 gammel/
 ~gan/
 gan/
@@ -37145,7 +36924,6 @@ gbook.php
 gbooks/
 gbox/
 gbpack/
-gbpass.pl
 gb.php
 gb.phtml
 gb_post.php
@@ -37601,7 +37379,6 @@ getegrulinfo_/
 _GetEmail.cfm
 getemail.php
 GetePUB.aspx
-get-evdoc.pl
 get-experience.html
 getextras.php
 get_fax.php
@@ -38062,7 +37839,6 @@ gizlilik.php
 gizmos/
 gjs/
 GL/
-ģļ/
 ~glad/
 glades/
 ~gladi/
@@ -38185,7 +37961,6 @@ Globalvar.php
 globalvars.php
 globalve/
 globalwarming/
-globasdgdfsgsl.php
 globe.htm
 globetax/
 globe-university/
@@ -39052,7 +38827,6 @@ growing/
 growup/
 grp/
 gr.php
-GRP_WebShell.php
 gr-qc/
 grt/
 grub/
@@ -39207,7 +38981,6 @@ guestbook.html
 guestbook/passwd/
 guest_book.php
 Guestbook.php
-guestbook.pl
 guestbook/pwd/
 guestbook_send.php
 guestbook.shtml
@@ -39250,7 +39023,6 @@ guiaempresas/
 GuiaFyS/
 guiagratis/
 guiaisora/
-guiapreparacion.swf
 guias/
 GuiasViajes/
 guia-turistica/
@@ -39463,12 +39235,6 @@ haber.php
 habersham/
 habillage/
 habrahabr/
-Hack/
-hackattempt.php
-hackdb.php
-hacker.php
-hack.php
-hacks_list.php
 ~had/
 haden/
 hadis/
@@ -39550,7 +39316,6 @@ hall.php
 ~hallsy/
 ~hally/
 halogy/
-Halo_Skin_3.swf
 ~halsey/
 ~halsy/
 ~halt/
@@ -39863,7 +39628,6 @@ head.asp
 header1.htm
 header1.html
 header1.php
-header1.swf
 header2.css
 header2.html
 header2.js
@@ -39913,7 +39677,6 @@ Headers/
 headerS.asp
 header.shtml
 headers.php
-header.swf
 header.txt
 header.xml
 head.htm
@@ -40334,7 +40097,6 @@ hersteller.php
 hertford/
 ~hertha/
 ~herve/
-Hervé_Taïeb/
 ~hervey/
 hervey-bay/
 Herzberg/
@@ -40530,7 +40292,6 @@ hip-hop/
 hip_hop/
 hiphop/
 hi.php
-Hipódromo/
 hipoteca/
 hipres/
 hips/
@@ -40613,9 +40374,8 @@ hivemindtest/
 hizmet/
 hjelp/
 h.js
-HK/
-hkrkoz.php
-HL/
+hk/
+hl/
 hladaj.asp
 hladaj.html
 hlb/
@@ -40865,7 +40625,6 @@ home_page.html
 homepage.html
 HomePageImages/
 home_pages/
-homepage.swf
 homepage_videos/
 homeparts/
 Home.php
@@ -40905,7 +40664,6 @@ home.sql.zip
 home-staging/
 home-style/
 home.subscribe
-home.swf
 HOME-T33.html
 home.tar
 home.tar.gz
@@ -41053,7 +40811,6 @@ hosting-nomark/
 hostingorder.php
 hosting.php
 hostings.php
-hosting.swf
 hostingtest.cfm
 hosting.xhtml
 host-manager/add/
@@ -41494,8 +41251,6 @@ html_images/
 htmlInclude/
 html_includes/
 html/index.html
-html/js/misc/swfupload/swfupload_f9.swf
-html/js/misc/swfupload/swfupload.swf
 html-kit/
 html_mail/
 html_mime/
@@ -41690,7 +41445,6 @@ huntington/
 ~huntley/
 huntsman.htm
 huntsville/
-HUOa/
 hu.php
 huren/
 ~hurlee/
@@ -41770,7 +41524,6 @@ hyu/
 hyundai/
 hyzx/
 hzgo.php
-ʽļ/
 i0/
 i00/
 _i18n.php
@@ -41980,7 +41733,6 @@ idea/scopes/scope_settings.xml
 idea/Sites.iml
 ideas.php
 idea/sqlDataSources.xml
-idea.swf
 idea/tasks.xml
 idea/uiDesigner.xml
 idea/vcs.xml
@@ -42036,7 +41788,6 @@ IDS/
 id_societe/
 IDSWebApp/
 idt/
-IDTEST.swf
 idtr/
 id.txt
 idv3_settings.php
@@ -42387,7 +42138,6 @@ image_rotator/
 imagerotator/
 image_rotator.asp
 imagerotator.php
-imagerotator.swf
 imagerotator.xml
 imagers.php
 imagery/
@@ -42445,7 +42195,6 @@ imagesbase/
 images-blog/
 images_blog/
 images_blue/
-images/c99.php
 images_cars/
 images_catalog/
 images.cfm
@@ -42483,7 +42232,6 @@ images_home/
 imageshome/
 images_homepage/
 image_show.php
-imageshow.swf
 images.htm
 images.html
 images.inc.php
@@ -42866,7 +42614,6 @@ IMS/
 imsearch.php
 imsi/
 imstall/
-im.swf
 imtapp/app/arc_pub.uix
 imtapp/app/gbl_contact_us.uix
 imtapp/app/home.uix
@@ -43024,8 +42771,6 @@ IncludesPopup/
 IncludesResults/
 includesrtl/
 includes_site/
-includes/swfupload/swfupload_f9.swf
-includes/swfupload/swfupload.swf
 includes/tiny_mce/
 includes/tinymce/
 include_stories.asp
@@ -43178,7 +42923,6 @@ index-2.php
 index_2.php
 index2.php3
 index2.shtml
-index2.swf
 index321.html
 index3.asp
 index3_files/
@@ -43516,7 +43260,6 @@ index.phtml
 indexpic.asp
 index_pics/
 indexpics/
-index.pl
 index.pnp
 index_popup.php
 indexppc.cfm
@@ -43556,7 +43299,6 @@ index.sql
 index.ssf
 index.staged.php
 index_staging.php
-index.swf
 indexswf/
 Index_SWShoes.cfm
 index-temp.asp
@@ -43931,7 +43673,6 @@ infosrch.cgi
 infostrada/
 infostyle.css
 info_submit.aspx
-info.swf
 infosys/
 infosystem/
 infothek/
@@ -44000,7 +43741,6 @@ inicioc/
 inicio.htm
 inicio.html
 inicio.php
-inicio.swf
 ini_files/
 inifix.inc.php
 ~inigo/
@@ -44233,7 +43973,6 @@ install.oui
 install.pgsql
 install.php3
 install.php.bak
-install.platform
 install_plugins.php
 install_remote.php
 install.rokcandy.php
@@ -44483,7 +44222,6 @@ intranetv3/
 IntranetWebSite/
 intraweb/
 Intro/
-intro2.swf
 intro.asp
 introduction.htm
 introduction.html
@@ -44494,7 +44232,6 @@ introkit/
 intro_math.html
 intros/
 intros.txt
-intro.swf
 intro.xml
 intruvert/
 intship/
@@ -44755,7 +44492,6 @@ irccommands.php
 irc_config.php
 irc.js.php
 irc.php
-irc.pl
 ire/
 iredell/
 iredir/
@@ -44779,7 +44515,6 @@ irl/
 irn/
 iron/
 iron33/
-ironshell.php
 iroquois/
 irr/
 irr_vs_npv/
@@ -44878,8 +44613,6 @@ _isjz1mwy/
 iskaj/
 iskalnik/
 iskanje/
-isko.php
-iskorpitx.php
 iskw01.asp
 isl/
 isla/
@@ -45105,7 +44838,6 @@ itratos_xanario.php
 itrc/
 ITS/
 ITSD/
-itsecteam_shell.php
 it.shtml
 it-solutions/
 itsp/
@@ -46373,7 +46105,6 @@ jsource/
 js_overlib/
 jsparty/
 jsp_backup/
-jspbd.jsp
 jspdocs/index.html
 jspdocs/javadoc/
 jspellhtml/
@@ -46383,7 +46114,6 @@ jsp-examples/
 jsp_forms/
 js.php
 jspop/
-jspshell.jsp
 jsp-templates/
 jsptest.jsp
 jsp_utils/
@@ -46394,8 +46124,6 @@ js-scripts/
 js.scripts
 js_shadowbox/
 jsspecial.php
-js/swfupload/swfupload_f9.swf
-js/swfupload/swfupload.swf
 jst/
 jstester.htm
 js/tiny_mce/
@@ -46582,7 +46310,6 @@ Justine/
 just-say-moo/
 ~justus/
 justy/
-Jüterbog/
 jutvision/
 juventud/
 juviles/
@@ -47536,7 +47263,6 @@ komodotools/
 komponente/
 komponenty/
 komtel/
-konalibinline.swf
 koncert/
 koncerty/
 konfig/
@@ -47675,7 +47401,6 @@ krakow/
 krakow-hotele.php
 krakow-hotels.php
 kraloyun/
-kral.php
 kram/
 kramer/
 krankenkassen/
@@ -47858,7 +47583,6 @@ kyujin/
 KZ/
 kz-upload/
 l_/
-̨ļ/
 l0g1n/
 l1/
 l10apps/
@@ -48411,7 +48135,6 @@ layout_neu/
 Layouts/
 _layouts.dontcopy
 layouts.html
-layout.swf
 layout_tab/
 layout_up.php
 layout-v2/
@@ -48601,7 +48324,6 @@ Left-Nav.htm
 leftnav.htm
 left_nav.php
 leftside/
-left.swf
 ~lefty/
 leg/
 lega/
@@ -48754,7 +48476,6 @@ leonardc.asp
 leone/
 ~leonelle/
 ~leonerd/
-León_España/
 ~leonhard/
 leon.html
 ~leonid/
@@ -48996,7 +48717,6 @@ library.htm
 library.html
 library_old/
 library-open.asp
-LibraryPromo.swf
 Librarys/
 librarytest/
 Library.zip
@@ -49122,7 +48842,6 @@ lifesystems.php
 lifetime/
 lifeventure.php
 lifex/
-lifkaS.php
 lift/
 liga/
 ligen/
@@ -49750,10 +49469,8 @@ list_photos_js.php
 List.php
 list.php3
 list_pin.php
-list.pl
 ListProduct.asp
 list_prov.php
-listrec.pl
 Lists/
 lists/admin/
 lists.asp
@@ -49926,7 +49643,6 @@ livres.php
 liweihui/
 lixo/
 ~liz/
-liz0zim.php
 ~liza/
 ~lizabeth/
 ~lizbeth/
@@ -50039,9 +49755,7 @@ loader.cfm
 loader_frame.html
 loader.html
 loader.js
-loader.swf
 loader-wizard.php
-Loaderz_WEB_Shell.php
 load_f2at.php
 LoadFile.aspx
 load.html
@@ -50223,8 +49937,6 @@ loc.php
 locrispin/
 loc_search.php
 locuri-de-munca/
-Locus7s.php
-locus.php
 lodge/
 lodging.asp
 lodging.htm
@@ -50414,7 +50126,6 @@ Login.php3
 login.php4
 login.php5
 login.phtml
-login.pl
 loginp.php
 LoginProcess/
 login_process.cfm
@@ -50466,9 +50177,7 @@ log/log.log
 log/log.txt
 log.mdb
 logme/
-log/nether-log.pl
 Logo/
-logo2.swf
 logo.asp
 logodesign/
 Logo-Design-Pros/
@@ -50495,7 +50204,6 @@ logonform/
 logon.html
 logon.php3
 logon.php4
-logon.pl
 logon.py
 logon.rb
 LogonSecurity.dll
@@ -50508,7 +50216,6 @@ logos.htm
 logos.html
 logos.php
 logosuvenir.html
-logo.swf
 logotest/
 log.out
 log_out.cfm
@@ -50539,7 +50246,6 @@ logs.html
 logs.inc.php
 logsivit/
 logs.mdb
-logs.pl
 log.sqlite
 logs/sendmail/
 logs.sqlite
@@ -50567,7 +50273,6 @@ LOL/
 ~lola/
 lolcode.php
 ~loleta/
-lolipop.php
 ~lolita/
 lolleria/
 lolleriaxativa/
@@ -50693,7 +50398,6 @@ losowe/
 lospalmitos/
 Lost/
 lost%2Bfound/
-lostDC.php
 lost.htm
 lost.html
 lostpass.asp
@@ -51062,7 +50766,6 @@ lyrics.html
 lyrics.php
 ~lyssa/
 lytebox_v3/
-lyy.swf
 lz_watco_uk/
 m_/
 m10_edit_item.html
@@ -51303,7 +51006,6 @@ macisvendad/
 ~mack/
 mack/
 ~mackenzie/
-Mackers_Private_Shell.php
 mackinac/
 maclellan/
 macomb/
@@ -51364,7 +51066,6 @@ mad-rock.php
 madronaltenerife/
 madronera/
 madspot.php
-madspotshell.php
 ~mady/
 ~mae/
 mae/
@@ -51389,7 +51090,6 @@ magazine.php
 Magazines/
 magazines.htm
 magazines.html
-Magazine.swf
 Magazin.html
 magazini/
 magazin.php
@@ -51543,7 +51243,6 @@ mailfiles/
 mailfilter/
 mail_flip.php
 mail_form/
-mailform2.plx
 mailform3/
 mail_form.asp
 mailform.asp
@@ -51596,7 +51295,6 @@ mailing.txt
 mail_in_pop.php
 mailit/
 mailit.php
-mailit.pl
 mailler/
 maillest.php
 MailLink/
@@ -51612,7 +51310,6 @@ maillist.htm
 maillist.html
 mail_list.php
 maillist.php
-maillist.pl
 maillist_proc.php
 maillistremove.htm
 mail-lists/
@@ -51788,7 +51485,6 @@ main_stories/
 mainstreet/
 mainstyle.css
 mainsub.php
-main.swf
 _maint/
 Maint/
 maintainance/
@@ -51843,7 +51539,6 @@ majodio/
 majorcat.cfm
 majorcool/
 majordom/
-majordomo.pl
 maj.php
 mak/
 MakeAbsolute.php
@@ -52258,7 +51953,6 @@ maps.html
 map-small-world.cgi
 maps.php
 map.srf
-map.swf
 map_test/
 maptest/
 mapthumbs/
@@ -52330,7 +52024,6 @@ Marcus-Besler/
 ~marcy/
 marcy/
 mar-del-plata.html
-mardelwebs.swf
 ~mareah/
 ~maren/
 ~marena/
@@ -52711,7 +52404,6 @@ masterResources.php
 masterRqmntsEN.php
 masterRqmnts.php
 Masters/
-master.swf
 master_templates/
 mastertemplates/
 masterweb/
@@ -52723,7 +52415,6 @@ MAT/
 Mata/
 matagorda/
 matalascanas/
-matamu.php
 matanza/
 matarana/
 mataro/
@@ -53149,7 +52840,6 @@ _mediaplayer/
 media-player/
 mediaPlayer/
 media_player.aspx
-mediaplayer.swf
 mediaplugin.php
 mediapool/
 mediarelations/
@@ -53232,7 +52922,6 @@ meet-the-team/
 mef/
 ~meg/
 megabook/
-megabor.php
 megagalleries/
 megamebel/
 megamuscle.htm
@@ -53667,7 +53356,6 @@ menu.shtml
 menus.html
 menus.php
 menu_style.css
-menu.swf
 MenuSysFiles/
 menu_tables.inc.php
 menutemplate.php
@@ -53942,7 +53630,6 @@ meta_inf/
 META-INF/context.xml
 meta_keywords.php
 metallic/
-meta.pl
 metar/
 Metasearch/
 metashare/
@@ -54115,7 +53802,6 @@ michelelynch/
 ~michell/
 ~michelle/
 Michelle/
-michel.swf
 Michigan/
 michigan.html
 ~mick/
@@ -54509,7 +54195,6 @@ mix.php
 miyazaki/
 m.js
 m_js/
-mju.swf
 mjx/
 MK/
 mkeh/
@@ -54573,7 +54258,6 @@ mm3_panel.php
 mm5-old/
 mm5Setup/
 mmadmin/
-mma.php
 mm-auto/
 mm-auto-facstaff/
 mm-browser/
@@ -54732,7 +54416,6 @@ modellist.tpl
 modello/
 model_old/
 modelos_c/
-MODELO.swf
 Models/
 modelsapps/
 models.asp
@@ -54779,7 +54462,6 @@ mod_gotoad.cgi
 mod_gtranslate.php
 mod-history/
 mod_icetabs.php
-modieus.swf
 modifcart.php
 modif_fac.php
 modifica.php
@@ -54947,7 +54629,6 @@ mojacararea/
 mojacarplaya/
 mojacarpueblo/
 mojakosarica.aspx
-MojaveOverAll.swf
 moje/
 moje-darceky/
 moje-darky/
@@ -55037,7 +54718,6 @@ money-making/
 moneymanager/
 money.php
 money_return.php
-money.swf
 monfero/
 monforte/
 monfortecid/
@@ -55277,7 +54957,6 @@ morley/
 ~morna/
 morning/
 MorningFive.asp
-Moroccan_Spamers.php
 Morocco.html
 moronfrontera/
 moroni/
@@ -55409,7 +55088,6 @@ move.xhtml
 movfiles/
 Movie/
 Movie1.sbk
-Movie1.swf
 Movie1.swi
 movie_art/
 movie.asp
@@ -55430,7 +55108,6 @@ movies.htm
 movies.html
 movies.php
 movies.shtml
-movie.swf
 MoviesYouveSeen/
 movie_test/
 movie-theaters/
@@ -55463,7 +55140,6 @@ mp3/
 mp3download/
 mp3.html
 mp3-player/
-mp3player.swf
 MP3s/
 mp4/
 MPA/
@@ -55738,7 +55414,6 @@ multiform/
 multigenerator.php
 multihelp_files/
 multi.html
-multihtml.pl
 multilang.php
 MultiLength.php
 multilingual/
@@ -55823,7 +55498,6 @@ music2/
 Musica/
 musicalbums/
 music.asp
-musica.swf
 musicbox/
 music-downloads/
 music_genre.php
@@ -55838,7 +55512,6 @@ musicplayer/
 music-reviews/
 music_stopped/
 musicstore/
-music.swf
 music-tickets/
 Musik/
 musikaeskola/
@@ -56002,7 +55675,6 @@ myazstaging/
 mybackup/
 mybackups/
 mybank/
-mybanner.swf
 mybasket/
 my_basket.asp
 mybasket.asp
@@ -56121,7 +55793,6 @@ myform/
 myform.html
 myform.php
 myforms/
-myform.swf
 myform.xml
 myforum/
 myfoto/
@@ -56346,7 +56017,6 @@ mysettings/
 mysettings.cfm
 my_settings.php
 mysf/
-MyShell.php
 myshop.php
 myshortlist.html
 mysimpaty.php
@@ -56475,7 +56145,6 @@ myuploads/
 my_vdo_edit.php
 myvideo/
 my_video.php
-myvideoplayer30.swf
 myvideoplayer30.xml
 my-videos/
 myvisit/
@@ -56776,7 +56445,6 @@ navigation.html
 navigationmenu/
 navigation_panel/
 navigations/
-navigation.swf
 Navigator/
 navigator.jsp
 navigator.php
@@ -56797,7 +56465,6 @@ navmonth/
 navpics/
 nav_picture.php
 nav_shop/
-nav.swf
 navteq/
 nav_test/
 nav-training.php
@@ -56856,7 +56523,6 @@ NCC/
 ncc1701/
 ncc1701d/
 ncc1701e/
-NCC-Shell.php
 nce/
 ncf/
 nch/
@@ -57086,7 +56752,6 @@ Network/
 networkActivity/
 network.aspx
 network-bar.js.php
-NetworkFileManagerPHP.php
 network.html
 networkincludes/
 networking.htm
@@ -57740,7 +57405,6 @@ news-storage/
 news-stories/
 newsstories/
 news-submit/
-news.swf
 NewsSys/
 news-team.php
 news_test/
@@ -57874,7 +57538,6 @@ nggextractXML.php
 nggfunctions.php
 nggshow.php
 nghcdnbhsbr/
-NGH.php
 ng.html
 nginx-access.log
 nginx.conf
@@ -58089,7 +57752,6 @@ nl_NL.php
 nlogClicks.cfm
 nlogin.php
 nlog-smb.cgi
-nlog-smb.pl
 nlp/
 NLPMindfest/
 NLPwebinar/
@@ -58281,7 +57943,6 @@ non/
 ~nona/
 ~nonah/
 nonAJAX/
-Non-alphanumeric.php
 noname/
 nonaspe/
 nonce.php
@@ -58289,7 +57950,6 @@ non_competitors.php
 noncomp_opener.php
 noncomp.php
 None/
-non-existent.pl
 nonez/
 nongenuine.aspx
 ~noni/
@@ -58665,10 +58325,8 @@ npdata.ser
 npds/
 np_egia.nsf
 nph-emumail.cgi
-nph-error.pl
 nph-exploitscanget.cgi
 nph-index.cgi
-nph-maillist.pl
 N.php
 nph-proxy.cgi
 nph-publish/
@@ -58874,9 +58532,7 @@ ntbbs.exe
 ntb_innenriks/
 ntbm/
 ntb_utenriks/
-ntdaddy.asp
 ntdvh/
-ntitar.pl
 ntl/
 ntp/
 nts.him
@@ -58980,7 +58636,6 @@ NV/
 nverror.php
 nvform.php
 nvidia/
-nvplayer.swf
 nvq-level-1-2-3/
 nvxing/
 NW10/
@@ -59068,7 +58723,6 @@ oberhausen.html
 oberon2.php
 obesity/
 obfuscate/
-obfuscated-punknopass.php
 obgyn/
 ~obidiah/
 ~obie/
@@ -60908,7 +60562,6 @@ oscoda/
 oscom/
 osCommerce/
 oscommerce2/
-osc_player.swf
 oscss_data/
 oscthumb.php
 OSD/
@@ -61010,7 +60663,6 @@ others.html
 other-sport/
 other-sports/
 others_upload/
-other.swf
 other-tour/
 other-tours/
 ~othilia/
@@ -61134,7 +60786,6 @@ outbound_link/
 outbound-links/
 OutboundMail/
 outbound.php
-outbound.pl
 outbox/
 outbox.php
 out.cgi
@@ -61181,7 +60832,6 @@ outs.aspx
 Outside/
 outside.asp
 OutsideJobsDB.asp
-outsider.plx
 outside.xhtml
 OutSite.asp
 outsourced/
@@ -61936,7 +61586,6 @@ pagosanclemente/
 pagos.html
 pagosonline.html
 pagospay.html
-pago.swf
 pag.php
 pag_reg_accesso.php
 pags/
@@ -62120,7 +61769,6 @@ pa.php
 papier/
 papierkorb/
 papirkurv/
-pap.swf
 ~paquito/
 Para/
 Para4B/
@@ -62832,7 +62480,6 @@ pCSC.asp
 pcscontent/
 pc_settings.php
 pcsv/
-pcsys.swf
 pcutilities/
 pc_whyUse.jsp
 pd23-About-Us.html
@@ -63038,7 +62685,6 @@ pekertips.html
 pelayo/
 pelda/
 pelican.php
-peliculas.swf
 peli.php
 pelis/
 pelit/
@@ -63184,7 +62830,6 @@ perllib/
 perl.php
 perlscripts/
 perlshop.cgi
-PerlWebShellbyRST-GHC.pl
 permalien/
 permalink/
 perman/
@@ -63400,7 +63045,6 @@ phad/
 ~phaedra/
 phaeton/
 ~phaidra/
-PHANTASMA.php
 phantich/
 phantom/
 pharm/
@@ -63715,7 +63359,6 @@ php-api/
 phpapps/
 phparticles/
 phpauctionpro/
-Php_Backdoor.txt.php
 php_backup/
 phpbackup/
 phpbanner/
@@ -63818,11 +63461,9 @@ phpini.bak
 php.ini.default
 php.ini-orig.txt
 php_ini.txt
-pHpINJ.php
 phpin.php
 phpintel/
 phpi.php
-PHPJackal.php
 php-lc1/
 phpLD/
 phpldapadmin/
@@ -63910,7 +63551,6 @@ phpqrcode/
 phprank/
 phpRedisAdmin/
 phpredmin/
-PHPRemoteView.php
 php-residence/
 phprint-all.php
 phprint.php
@@ -63929,13 +63569,11 @@ phpsessid/
 phpsessions/
 phpshare/
 phpshell/
-PHP_Shell.php
 phpsite/
 phpSitemap/
 _phpSitemapNG/
 phpSitemapNG/
 phpslash/
-PhpSpy.php
 phpstat/
 phpStats/
 php-stats.js.php
@@ -63995,7 +63633,6 @@ P.html
 phtoalbumbp.asp
 phuket/
 phurl/
-PHVayv.php
 phxalarm.html
 phxarts.html
 phxaudit.html
@@ -64337,7 +63974,6 @@ pkgtracking/
 pki/
 pku/
 pkv/
-~.pl
 pl/
 plaatjes/
 placa/
@@ -64491,14 +64127,11 @@ _player/
 Player/
 player2/
 player2.php
-player2.swf
 player3.php
-player3.swf
 player.aspx
 playerConfig.php
 player-data/
 Player_files/
-player_flv_maxi.swf
 player.html
 player.jsp
 PlayerModule/
@@ -64508,7 +64141,6 @@ player-pianos.html
 Players/
 player_search.cgi
 players.php
-player-viral.swf
 player-week/
 playflamenca/
 play-for-real/
@@ -64530,7 +64162,6 @@ playlist.xspf
 play.php
 playPreview.cfm
 plays/
-play.swf
 play_video.php
 playvideo.php
 playVodMovieFlow/
@@ -64676,8 +64307,6 @@ Plugins.html
 plugins.inc.php
 plugins.log
 pluginsmanager.php
-plugins/sfSWFUploadPlugin/web/sfSWFUploadPlugin/swf/swfupload_f9.swf
-plugins/sfSWFUploadPlugin/web/sfSWFUploadPlugin/swf/swfupload.swf
 plugins/spaw2/dialogs/dialog.php
 plugins/tiny_mce/
 plugins/tinymce/
@@ -65337,7 +64966,6 @@ portfolioImages/
 portfolio-items/
 Portfolio.php
 portfolios.php
-portfolio.swf
 portfoy/
 _porthu_popup.php
 ~portia/
@@ -65796,14 +65424,12 @@ precheckout.php
 precimg/
 precios.html
 precios.php
-precios.swf
 precise/
 p_recommend_uk/
 precomp/
 PRECON_2010/
 preconception/
 predaj/
-Predator.php
 Predicate.php
 prediction/
 predictions/
@@ -65852,7 +65478,6 @@ prelisten/
 preLoad.asp
 preloader/
 preLoader.asp
-preloader.swf
 preload.php
 prelogin/
 pre-masters/
@@ -66049,7 +65674,6 @@ preview_mode/
 Previews/
 previews.htm
 preview.shtml
-preview.swf
 previewvideo.aspx
 previewx/
 previo/
@@ -66362,7 +65986,6 @@ prints.php
 print.ssf
 printstory.cfm
 printstory.php
-print.swf
 print_tab.php
 printtech.cgi
 printthread.html
@@ -66499,7 +66122,6 @@ privatefiles/
 private.htm
 private.html
 private_html/
-Private-i3lue.php
 private_image/
 privateimages/
 private.key
@@ -66628,7 +66250,6 @@ Processing.aspx
 processingerror.asp
 processing.htm
 processing.php
-processit.pl
 processlinks.php
 process_login.asp
 process_login.php
@@ -67282,7 +66903,6 @@ promos.aspx
 PromoSite/
 promosites/
 promos.php
-promo.swf
 Promote/
 PromotedClick.aspx
 promote.htm
@@ -67576,7 +67196,6 @@ ps_upload/
 PSUser/
 ps_user.cgi
 pswd/
-p.swf
 psx/
 psyc/
 psych/
@@ -67617,7 +67236,6 @@ PTR.php
 ptrust/
 ptw/
 pty/
-pu3.pl
 pua/
 pu_all/
 puanver.php
@@ -67765,7 +67383,6 @@ pubserv/
 pubsite/
 pubsy/
 pubtest/
-pubvend.swf
 pubvideo/
 pubwebresources/
 puces/
@@ -67843,9 +67460,7 @@ Punchout/
 Pune/
 puneet/
 punish.php
-punkholic.php
 punkin/
-punk-nopass.php
 pun_pm/
 puntamoral/
 puntaprima/
@@ -67947,8 +67562,6 @@ pw_request.cfm
 pwreset.php
 pwr/simplyink/pwr/6n66vqj2/debug.html
 pwr/simplyink/pwr/6n66vqj2/rawdata/
-pws.php
-pws.pl
 PY/
 pydevproject/
 pyg/
@@ -68077,7 +67690,6 @@ QSC/
 QSCA/
 qscendPublic/
 Qscheduler/
-qsd-backdoor.php
 qs-de/
 qsearch/
 qsearch.php
@@ -68410,8 +68022,6 @@ R455876.txt
 r4j2me/
 r5/
 r50/
-r57eng.php
-r57shell.php
 r60/
 R7/
 r70/
@@ -69422,7 +69032,6 @@ redirect.shtml
 redirect_store/
 redirectstore.php
 redirects.txt
-redirect.swf
 RedirectToPWS.aspx
 redirecttourl.php
 redirect.tpl
@@ -69835,7 +69444,6 @@ reg.jsp
 regklikk_linker.php
 reglang/
 reglas/
-reglas%20nic%20ar.swf
 reglas.php
 reglement.php
 reglements.html
@@ -70007,7 +69615,6 @@ remedies/
 remember.asp
 remember.html
 remember-when/
-RemExp.asp
 remind.asp
 reminder_actions.php
 reminderadd.htm
@@ -70764,7 +70371,6 @@ Retreat.asp
 Retreaters.asp
 retrieve/
 retrievecart.asp
-retrieve_password.pl
 retrieve.php
 retriever/
 rets/
@@ -71122,7 +70728,6 @@ rights/
 rights.html
 rightside_ads/
 rights.php
-right.swf
 ~rik/
 rik/
 ~riki/
@@ -71638,7 +71243,6 @@ Rotate/
 rotate.asp
 rotater/
 rotating/
-rotation.swf
 Rotator/
 rotator.html
 rotator.php
@@ -71967,7 +71571,6 @@ rt_utils.php
 rtw/
 ru1/
 ru2/
-ru24_post_sh.php
 ruanjian/
 ruban/
 rubbish/
@@ -72147,7 +71750,6 @@ rwf/
 RWO_Controls/
 rwpics/
 rwv6/
-rwwwshell.pl
 RX/
 rx.asp
 rx_log.txt
@@ -72205,7 +71807,6 @@ s5230/
 s6/
 s60/
 s-7/
-s72_Shell.php
 s7ron/
 s8/
 s8.php
@@ -72256,9 +71857,6 @@ sadvertise.html
 ~sadye/
 saeco/
 Safe/
-safe0ver.php
-Safe0ver_Shell.php
-safebuy.asp
 safe.cfm
 SAFE.classes.php
 safedataframe.html
@@ -72267,7 +71865,6 @@ safedemo/
 SafeEmbed.php
 safe.htm
 safe.html
-Safe_Mode_Bypass.php
 safe.nsf
 SafeObject.php
 SafeParam.php
@@ -73726,7 +73323,6 @@ search.php3
 search.php4
 search.php.bak
 search.phtml
-search.pl
 SearchPlots/
 search-print.htm
 search_print.html
@@ -73820,7 +73416,6 @@ searchstore.aspx
 search_subcat.asp
 search_suggest.php
 searchsuggest.php
-search.swf
 search_synonyms.php
 searchtabs/
 SearchTaglines/
@@ -73927,7 +73522,6 @@ Secrets/
 secretsanta/
 secring.gpg
 secs/
-sec.swf
 sect_inc.php
 section-16.jsf
 SECTION_19.pdf
@@ -74426,7 +74020,6 @@ send-mail.php
 send_mail.php
 sendMail.php
 sendmail-sleep/
-send_mail.swf
 sendmailto.cfm
 SendMess/
 send_message/
@@ -74459,7 +74052,6 @@ send_page.cfm
 sendpage.html
 send_page.php
 sendpage.php
-sendpage.pl
 sendpass.asp
 sendpassord.php
 send_pass.php
@@ -74515,7 +74107,6 @@ sendsms.php
 send_stats/
 sendstatus.php
 sendStory/
-sendtemp.pl
 sendthis/
 sendthread/
 sendthread.php
@@ -74803,7 +74394,6 @@ servicii/
 Servicios/
 servicios.htm
 servicios.html
-servicios.swf
 ServiciosWeb.NSF
 Servicos.aspx
 servidor/
@@ -74812,7 +74402,6 @@ servis-za-prodavce/
 Servizi/
 servizi.asp
 servizio/
-servizi.swf
 servlet/default/
 servlet/DMSDump/
 servlet/f60servlet/
@@ -75071,7 +74660,6 @@ sfv/
 sfw/
 sfWfrm/
 sfx_links.asp
-sfxoutsider.plx
 _sg/
 SG/
 sg10.php
@@ -75664,7 +75252,6 @@ shoppingnew/
 shopping.php
 shopping_sing.php
 Shoppingws.asmx
-shop.pl
 shopplus.cgi
 shopportal/
 shop-proceed/
@@ -75951,7 +75538,6 @@ showphoto.php
 showpic.asp
 show_pic.php
 showpicture.php
-show.pl
 showpoll/
 ShowPopupPlaces/
 ShowPost.asp
@@ -75976,7 +75562,6 @@ showprofile.aspx
 showprofile.cfm
 showprofile.html
 showprofile.php
-showprofile.pl
 showprofil.php
 showProposal.aspx
 show-provinces/
@@ -76006,7 +75591,6 @@ shows.php
 show_stats.php
 shows_tmp/
 showstory.php
-show.swf
 showtb.asp
 showteam.php
 showtermsofuse.asp
@@ -76288,7 +75872,6 @@ silvia/
 ~silvio/
 ~sim/
 s_images/
-simattacker.php
 simba/
 simbolos/
 simdata.php
@@ -76319,7 +75902,6 @@ Simple/
 simplebbs/
 simplecache/
 SimpleCheck.php
-simple_cmd.php
 simplecov/
 simplecrypt.php
 simpledad/
@@ -76329,7 +75911,6 @@ simpleform.php
 simplehtmldom/
 simple_page.php
 simple.php
-Simple_PHP_backdoor.php
 SimplePie/
 simplepoll/
 simpleprep.exe
@@ -76353,7 +75934,6 @@ simply-prepaid/
 simpson/
 simpsons/
 sims/
-SimShell.php
 SIM.SIM
 simulador/
 simuladores/
@@ -76839,7 +76419,6 @@ sitestudioAppC/
 sites.txt
 site-suggestions/
 site_support/
-site.swf
 sites.xml
 Site_Sync/
 site.tar.gz
@@ -77074,13 +76653,11 @@ slidemenu/
 slide.php
 Slider/
 slider2/
-slider_home_001.swf
 slider.html
 slider_images/
 slider.js
 slider.php
 sliders/
-slider.swf
 Slides/
 slides2/
 slideShow/
@@ -77096,7 +76673,6 @@ slideshow.js
 Slideshow.jsp
 slide_show.php
 SlideShows/
-slideshow.swf
 slideshow_tools/
 slideshow.xml
 slideup/
@@ -77174,7 +76750,6 @@ smallpic/
 small_print/
 smallprint.php
 smalltalk.php
-Small_Web_Shell.php
 smallworld/
 Smart/
 smart404.asp
@@ -77235,7 +76810,6 @@ SMEI/
 sme_intro/
 sme_schltbl/
 smesolutions/
-smevk.php
 SMF/
 smf10.inc.php
 smf20.inc.php
@@ -77336,8 +76910,6 @@ sng/
 snickers/
 sniffer/
 snip/
-sniper.php
-SnIpEr_SA%20Shell.php
 Snippet.ashx
 Snippets/
 Snippits/
@@ -77498,7 +77070,6 @@ solar-energy/
 solares/
 solarit/
 sold.htm
-soldierofallah.php
 soldout/
 solegro_catalog/
 soleil/
@@ -77509,7 +77080,6 @@ solicitors/
 solicitudes/
 solidworks/
 solio.php
-solitaire.swf
 soller/
 ~sollie/
 ~solly/
@@ -77573,7 +77143,6 @@ song.php
 Songs/
 songs.html
 songs.php
-song.swf
 ~sonia/
 sonic/
 sonido/
@@ -77665,7 +77234,6 @@ sosimple/
 soso/
 so_SO.php
 sossina/
-sosyete.php
 s_ot/
 sot/
 so-theme/
@@ -77963,7 +77531,6 @@ speed-test/
 speed_test/
 speedtest.htm
 SpeedTest.php
-speedtest.swf
 speedy/
 speedyshop/
 spel/
@@ -77988,7 +77555,6 @@ sperma/
 sperre.php
 spettacoli/
 spew/
-spexec.aspx
 spf/
 sp_feedgenerator.php
 spform/
@@ -78058,7 +77624,6 @@ splashpage/
 splash_page.htm
 splash.php
 splashredirect.asp
-splash.swf
 Split/
 split.asp
 split.php
@@ -78188,10 +77753,8 @@ spx/
 spy.aspx
 SpyAssets/
 SpyderMap.php
-spygrup.php
 spyinggame/
 spy.php
-spyshell.php
 sq-AL/
 __SQL/
 _SQL/
@@ -78319,7 +77882,6 @@ SS_Blackjack.htm
 sscart.jsp
 ssc_asp_pad.xml
 ssc_aspp_pad.xml
-sscd_suncourier.pl
 ss.cgi
 ssc_html_pad.xml
 ssc_htmlp_pad.xml
@@ -78717,7 +78279,6 @@ stat.js
 stat_old/
 stat-pages/
 Stat.php
-stat.pl
 statpress.php
 ~stats~/
 stats/
@@ -78751,7 +78312,6 @@ stats-online/
 StatsPDFBook/
 Stats.php
 statspin/
-stats.pl
 stats.png
 stats.prf
 statspub/
@@ -78770,7 +78330,6 @@ status.aspx
 statusbar.php
 status.board.asd
 status-check.php
-statusconfig.pl
 statuses.php
 status.htm
 status.html
@@ -78781,7 +78340,6 @@ statuslogin.asp
 status.txt
 status.xsl
 statview.php
-statview.pl
 statx/
 staunton-city/
 ~stavro/
@@ -79142,11 +78700,9 @@ story.htm
 story.html
 story_images/
 storyitems-pics/
-story.pl
 story-print.php
 story_print.php
 story/sponsor-story/
-story/story.pl
 storytellers/
 story_test.php
 stow/
@@ -79218,7 +78774,6 @@ streetparade/
 streets/
 streettime/
 strength/
-stres.php
 stress-agent/
 stretch.htm
 StrictBlockquote.php
@@ -79554,7 +79109,6 @@ submiturl.php
 submit-video/
 submodal/
 subnav.php
-subnav.swf
 subok/
 suborders.php
 SubPage_2col.aspx
@@ -79943,8 +79497,6 @@ surf.php
 surftipps/
 surge/
 surgemail/
-surgemail/mtemp/surgeweb/tpl/shared/modules/swfupload_f9.swf
-surgemail/mtemp/surgeweb/tpl/shared/modules/swfupload.swf
 surgeon/
 surgut/
 Suriname.html
@@ -80190,7 +79742,6 @@ swp/
 swpp/
 SWS/
 sws/admin.html
-sws/manager.pl
 sw_sm_sw4.php
 swsupport.cfm
 SWT/
@@ -80246,7 +79797,6 @@ symfony/apps/frontend/config/routing.yml
 symfony/apps/frontend/config/settings.yml
 symfony/config/databases.yml
 Symlink.php
-Symlink.pl
 symmetry/
 ~symon/
 _symp/
@@ -80501,7 +80051,6 @@ table.asp
 tableaudebord/
 table_backup/
 table_block.php
-tablebuild.pl
 table.categories.php
 Table.class.php
 table.countries.php
@@ -80589,11 +80138,9 @@ tagbox/
 tag.cfm
 tag-cloud/
 tagCloud/
-tagcloud_eng.swf
 tagCloudGen.aspx
 tagcloud.php
 tagclouds/
-tagcloud.swf
 tagcloud.xml
 tagcontent.php
 tag_data.php
@@ -80632,7 +80179,6 @@ taguchitest.js
 taguchitest.php
 taguchitracker.php
 taguser.php
-tagw_x.swf
 tahapitres/
 tahoe/
 tahomab.php
@@ -80702,7 +80248,6 @@ tallinn/
 ~tallulah/
 ~tally/
 talonarios/
-TALSO.swf
 ~talya/
 ~talyah/
 ~tam/
@@ -81261,7 +80806,6 @@ tellafriend.html
 tellafriend_ok.html
 tell-a-friend.php
 tellAFriend.php
-tellafriend.pl
 tell.asp
 teller/
 tellform.html
@@ -81877,7 +81421,6 @@ testimonials.htm
 testimonials.html
 testimonialslong/
 testimonials.php
-testimonial.swf
 testimonials.x
 TestimonialView/
 TestimonialWrite/
@@ -82013,7 +81556,6 @@ testStart.htm
 test_store/
 testsuite/
 test_survey.asp
-test.swf
 testsystem/
 test/test.cgi
 test/test_helper.rb
@@ -82064,12 +81606,7 @@ texis/phine/
 tex.php
 _text/
 Text/
-text1.swf
 text2image.php
-text3.swf
-text4.swf
-text5.swf
-text6.swf
 textad/
 textad.cgi
 textads.php
@@ -82083,7 +81620,6 @@ textcache/
 TextChat/
 text_content/
 textcounter/
-textcounter.pl
 text.css
 text-data/
 TextDecoration.php
@@ -82464,7 +82000,6 @@ thomas.html
 ~thomasin/
 ~thomasina/
 ~thomasine/
-Thomas-Schöll/
 t-hometopintro.aspx
 Thompson/
 thongke/
@@ -82598,7 +82133,6 @@ ticker.html
 ticker.js
 ticker.php
 tickers/
-ticker.swf
 ticker.txt
 Ticket/
 Ticket.asp
@@ -82978,8 +82512,6 @@ tmp/access_log/
 tmp/admin.php
 tmp/cache/
 tmp/cache/assets/
-tmp/cgi.pl
-tmp/Cgishell.pl
 tmp/changeall.php
 tmp_column/
 tmp/cpn.php
@@ -82987,7 +82519,6 @@ tmp/d0maine.php
 tmpdata/
 tmpdiv/
 tmp/domaine.php
-tmp/domaine.pl
 tmp_downloads/
 tmp/d.php
 tmp/dz1.php
@@ -83010,13 +82541,11 @@ tmp/L3b.php
 tmplates/
 tmplates_c/
 tmplsearch.html
-tmp/madspotshell.php
 tmppdf/
 tmpPhotos/
 tmp-php/
 tmp/priv8.php
 tmproj/
-tmp/root.php
 tmp_scrips/
 tmp/sessions/
 tmp/sql.php
@@ -83189,8 +82718,6 @@ _tool/
 Tool/
 tool2/
 ~TOOL_ADMIN/
-tool.asp
-toolaspshell.asp
 tool_assets/
 Toolbar/
 toolbar.admin.php
@@ -83375,7 +82902,6 @@ topmenu.js
 top.menu.php
 top_menu.php
 topmenu.php
-topmenu.swf
 top_menu_var.php
 top_mots.php
 topmyprefs.php
@@ -83424,7 +82950,6 @@ topstories/
 top_streams.php
 topsuche.php
 tops_us.js
-top.swf
 top-ten/
 topten.jsp
 topten.php
@@ -84287,7 +83812,6 @@ trw/
 trx/
 try599/
 TryAgain.aspx
-tryag.php
 tryflash.php
 tryfree/
 tryme/
@@ -84357,7 +83881,6 @@ ttm/
 tt-niidpx-start.pdf
 ttpacp/
 tt.php
-tt.plx
 ttrack/
 TTS/
 ttse/
@@ -84376,7 +83899,6 @@ tua.php
 tuballos/
 tubas/
 tubeace-admin/
-tube_player.swf
 tubepress/
 tubex/
 tub-time/
@@ -84767,7 +84289,6 @@ udm4-php/
 udm_resources/
 UdmSearch/
 ud.php
-udp.php
 udrp/
 udt/
 uebergabe/
@@ -84865,7 +84386,6 @@ ukspider0/
 uksuppliers/
 uk-visa.php
 uk-world-news/
-űļ/
 ~ula/
 ~ulberto/
 ulc/
@@ -84905,7 +84425,6 @@ ultimissime/
 ultipro/
 Ultra/
 ultraboard.cgi
-ultraboard.pl
 ultram/
 ultramode.txt
 ultraped.php
@@ -85312,8 +84831,6 @@ UpImages/
 upimages.php
 up_img/
 upimg/
-up.jsp
-upl0ader.php
 uplaylist.php
 upld/
 upld_img/
@@ -85364,7 +84881,6 @@ uploadedpics/
 UploadEngine.asp
 Uploader/
 uploader.exe
-Uploader.swf
 UploaderTemp/
 upload_events.php
 upload_f2.png
@@ -85384,7 +84900,6 @@ uploadhome.php
 uploadHTML.php
 uploadify/
 uploadify.php
-uploadify/uploadify.swf
 upload-image/
 upload_image/
 UploadImage.asp
@@ -85416,7 +84931,6 @@ Upload.php
 upload.php3
 UploadPic/
 uploadpic.php
-Upload.pl
 uploadproduct.php
 upload_products.php
 uploadprogress.php
@@ -85471,10 +84985,8 @@ upnp/
 uporabnik/
 uporabniki/
 upper_left_menu.php
-up.pl
 uppladdat/
 uppod/
-uppod.swf
 uppsala/
 UPR/
 uprofile.php
@@ -85505,7 +85017,6 @@ upup/
 upvideo/
 upvote/
 upvoted/
-up_win32.jsp
 ur-admin.php
 uranus/
 ~urbain/
@@ -86096,7 +85607,6 @@ usr_reg.asp
 us_space/
 ussr/
 ust/
-ustorekeeper.pl
 us-tourkits.php
 us-travel.php
 usuari/
@@ -86803,7 +86313,6 @@ vcard.aspx
 vcard.class.php
 vcard.html
 vc.aspx
-vcastr22.swf
 vcatalog/
 VCB/
 vcb.asp
@@ -87329,7 +86838,6 @@ videos.php
 videos/sponsor-story/
 videosuche/
 Videosuploaded/
-video.swf
 videos-x/
 videos-x.php
 video-t/
@@ -87499,7 +87007,6 @@ viewer.html
 viewer.php
 ViewErrorLog.asp
 viewers/
-viewer.swf
 viewEvent.cfm
 ViewExample.aspx
 viewfavorites.do
@@ -87563,7 +87070,6 @@ viewlisting.php
 viewList.jhtm
 view.list.php
 view_list.php
-viewlogs.pl
 viewLook/
 viewlsts.aspx
 ViewMap.ashx
@@ -88211,7 +87717,6 @@ voters.php
 vote_send/
 votes.php
 votesupdown/
-vote.swf
 vote_tds.asp
 vote_tds.php
 vote.tpl.php
@@ -88266,7 +87771,6 @@ v_promociones.nsf
 vps.php
 vpweb/
 vq/
-vq/demos/respond.pl
 VR/
 VR10/
 VR91/
@@ -88573,7 +88077,6 @@ WAI/
 ~wainwright/
 wa_irite/
 wais/
-wais.pl
 wais-sources/
 wais-src/
 waistcoat.aspx
@@ -88589,7 +88092,6 @@ wait.html
 waiting/
 WaitingPage.aspx
 waiting.php
-waiting.plugin.php
 waitlist.php
 ~wake/
 wake/
@@ -88812,7 +88314,6 @@ Waters/
 waterservices/
 watershed/
 watersports/
-water.swf
 waterway-hills/
 waterwise/
 watkins/
@@ -89005,7 +88506,6 @@ webbase/
 WebBBS/
 webbbs.cgi
 webbbs.exe
-webbbs/webbbs_config.pl
 webbilisimciler/
 Webbuilder/
 webcacheadmin/
@@ -89293,7 +88793,6 @@ webmoney.html
 webmonitor/
 WebNET.js
 Webnews.exe
-webnews.pl
 webnms/
 WebNotify/
 webo/
@@ -89345,7 +88844,6 @@ webradio/
 webready/
 webreflow/
 Web.Release.config
-web.Release.confiп
 WebReport/
 WebReports/
 webreps/
@@ -89498,18 +88996,14 @@ WebTrend/
 Webtrends/
 WebTuner.aspx
 web-tv/
-webtv_c5n.swf
 webtv.php
-webtv.swf
 WebUI/
 webupdate/
 webupdater/
 web_usage/
 WebUserControls/
 web-users-views/
-webutil.pl
 webutils/
-webutils.pl
 webutvikling/
 webv2/
 webvert/
@@ -89519,7 +89013,6 @@ WebVideos/
 webview/
 WebViewer/
 webvoting/
-webwho.pl
 webwinkel/
 webwriting/
 webx.cgi
@@ -89576,7 +89069,6 @@ weekly-update.php
 week.php
 weenie/
 weetabix/
-weevely.php
 wef/
 wegenzout/
 wehaul/
@@ -89786,7 +89278,6 @@ wEWBAK/
 wEWBAKY/
 wEWBAL/
 wEWF/
-wewo.pl
 wEWWwK/
 wexford/
 weyerhaeuser/
@@ -89879,7 +89370,6 @@ when-to-wean/
 whenu/
 whereami/
 where.php
-where.pl
 WhereToBuy/
 whey24.htm
 whf/
@@ -90121,8 +89611,6 @@ wilma/
 wiltshire/
 wimages/
 Wimpy/
-wimpy_button.swf
-wimpy.swf
 ~win/
 Win32/
 win7/
@@ -90217,7 +89705,6 @@ wintersport.aspx
 ~winthrop/
 wint_web/
 winx/
-WinX_Shell.php
 _wip/
 WIP/
 wip.html
@@ -90596,7 +90083,6 @@ worldvision/
 Worldwide/
 worldwide.php
 wormwood/
-Worse_Linux_Shell.php
 ~worth/
 worth/
 ~worthington/
@@ -90612,7 +90098,7 @@ wp-a/
 wpa/
 wp-activate.php
 wpad.dat
-wp-admin/c99.php
+wp-admin/
 wp-admin.css
 wp-adminlogs/
 wp-admin.php
@@ -90868,8 +90354,6 @@ wsky/
 wsmbb_photos/
 wsms/
 wsnlinks/
-wso2_pack.php
-wso2.php
 wso.html
 wsol_video/
 wso.php
@@ -90942,7 +90426,6 @@ wwwadmin/
 www_bak/
 wwwboard.cgi
 wwwboard.cgi.cgi
-wwwboard.pl
 www_c/
 www-collector-e/
 wwwimages/
@@ -90977,7 +90460,6 @@ www-statistics/
 www_statistics/
 www-stats/
 wwwstats.htm
-wwwstats.pl
 www.st-patricks.com
 www.txuri-urdin.com
 wwwusage/
@@ -91399,7 +90881,6 @@ X.php
 xphperrors.log
 x-php-insert/
 xphpMyAdmin/
-x.pl
 xplanner/
 xplayer/
 XPLOR/
@@ -91545,7 +91026,6 @@ YaBB/
 YaBB.cgi
 YabbHelp/
 YaBBImages/
-YaBB.pl
 YaBB/YaBB.cgi
 yacht/
 yaco/
@@ -91849,7 +91329,6 @@ zach/
 ~zack/
 zack/
 ~zackariah/
-zacosmall.php
 z_admin/
 zAdmin/
 zadz/
@@ -91978,12 +91457,6 @@ ze/
 ~zed/
 ~zedekiah/
 zedgraphimages/
-zehir4.asp
-zehir4.aspx
-zehir4.php
-zehir.asp
-zehir.aspx
-zehir.php
 zeichen.php
 zeit/
 zeitgeist/
@@ -92017,7 +91490,6 @@ zeppezikki/
 zeresh/
 ~zerk/
 Zero.aspx
-zeroclipboard.swf
 ZeroDollarPost.asp
 zerohora/
 zerrin-tever.htm
@@ -92214,7 +91686,6 @@ ZoomEmbed/
 zoom.html
 zoomify/
 zoomify.aspx
-zoomifyViewer.swf
 ZoomImage.aspx
 zoomimage.php
 zoomimages/
@@ -92315,7 +91786,6 @@ zworkingfiles/
 zx.asp
 zxns.html
 zy/
-ZyklonShell.php
 ZZ/
 zz_/
 _zzConfig/
