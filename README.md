@@ -1,6 +1,6 @@
 # Wordlist
 
-Wordlist useful for content discovery with Burp - contains 92.333 directories and files
+Wordlist useful for content discovery with Burp - contains 91.803 directories and files
 
 Sorted and without duplicates, but probably with a lot of trash left ;)
 
